@@ -1,17 +1,13 @@
 ### Halo 👋
-Gw Fullstack Web Developer.
+Iyaa gw fullstack web developer tapi gak punya portofolio. Sebenernya ada cuma gw berikan ketika dibutuhkan aja..
 
-Bahasa favorit:
+Gw biasa ngomong pake bahasa:
 
 [![My Skills](https://skillicons.dev/icons?i=ts,php)](https://skillicons.dev)
 
-Suka banget sama:
+Dan gw biasa bikin apa-apa pake:
 
-[![My Skills](https://skillicons.dev/icons?i=vue,react,)](https://skillicons.dev)
-
-Sering bikin projek pake:
-
-[![My Skills](https://skillicons.dev/icons?i=nextjs,nuxtjs,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,svelte,laravel)](https://skillicons.dev)
 
 ***
 ![](https://komarev.com/ghpvc/?username=iqbalfebian&color=blueviolet)
