@@ -1,5 +1,5 @@
 ### Halo 👋
-Iyaa gw fullstack web developer tapi gak punya portofolio. Sebenernya ada cuma gw berikan ketika dibutuhkan aja..
+Iyaa gw fullstack web developer tapi gak punya portofolio. Sebenernya ada cuma gw kasih kalo dibuthuin aja..
 
 Gw biasa ngomong pake bahasa:
 
